@@ -36,7 +36,3 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 #EXTINF:-1 tvg-id="RTMASEAN.my@SD" tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="News",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 
-#EXTINF:-1 tvg-id="MVM.mm" tvg-logo="https://raw.githubusercontent.com/yehtutbo/iptvmm/main/mvm-th-mm.png" group-title="Myanmar TV",MVM HD
-https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/chunklist_w807259826.m3u8
-#EXTINF:-1 tvg-id="MNTV.mm" tvg-logo="https://raw.githubusercontent.com/yehtutbo/iptvmm/main/mn_tv_mm.png" group-title="Myanmar TV",MNTV
-http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8

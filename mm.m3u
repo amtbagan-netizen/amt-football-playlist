@@ -1,4 +1,19 @@
 #EXTM3U
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/maharbawdi.webp",001.Mahar BAWDI
+https://live.pyoneplay.com/live/01m2tfrqkdceydf6g6f48pdrmn/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mrtv4.webp",002.MRTV_4_HD
+https://live.pyoneplay.com/live/01m2sn12yc6v2enx392qj2ekqt/index.m3u8
+
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", 003.Channel 7
+https://live.pyoneplay.com/live/01m2sr3kyn6bztz3xk02w3t7pn/index.m3u8
+#https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://www.mahar.app/_next/image?url=%2Fimage%2Fbanner.png&w=384&q=75",004.MAHAR TV
+https://ygncdn.com/live/mahar/360p/chunks.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/maharesports.webp",005.MAHAR ESPORTS the 
+https://ygncdn.com/live/maharesports/360p/chunks.m3u8
 #EXTINF:-1 group-title="MYANMAR" tvg-logo="https://www.mahar.app/_next/image?url=%2Fimage%2Fbanner.png&w=384&q=75",Mahar TV
 https://ygncdn.com/live/mahar/360p/chunks.m3u8
 #EXTINF:-1 tvg-id="FortuneTV.mm@SD" tvg-logo="https://i.imgur.com/MM5evnD.png" group-title="Entertainment",Fortune TV (720p)

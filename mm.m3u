@@ -8,9 +8,7 @@ https://live.pyoneplay.com/live/01m2sr3kyn6bztz3xk02w3t7pn/index.m3u8
 #https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/prZPLp0Q/Screenshot-20261019-214056-Chrome.jpg",025.Channel K
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
-#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://www.mahar.app/_next/image?url=%2Fimage%2Fbanner.png&w=384&q=75",004.MAHAR TV
-https://ygncdn.com/live/mahar/360p/chunks.m3u8
-#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mchannel.webp",019.M_channle
+#EXTINF: group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/mchannel.webp",019.M_channle
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/7JPc5jGn/Screenshot-20261019-214141-Chrome.jpg",017.MITV
 https://mrtvott.com/efe03482a800124862a7079bad3e5b1a---/cache/MITV/m3u8/cache_MITV_m3u8_hls_m3u8_MITV-TS-L.m3u8

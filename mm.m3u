@@ -8,6 +8,13 @@ https://live.pyoneplay.com/live/01m2sr3kyn6bztz3xk02w3t7pn/index.m3u8
 #https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",024.Channel 9
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
+
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/prZPLp0Q/Screenshot-20261019-214056-Chrome.jpg",025.Channel K
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
+#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", Channel 7
+https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
+#EXTINF:-1 group-title="MYANMAR"tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",024.Channel 9
+https://mmtvs.exliatycl.online/channel9/stream.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://i.ibb.co/prZPLp0Q/Screenshot-20261019-214056-Chrome.jpg",025.Channel K
 https://mmtvs.exliatycl.online/channel9/stream.m3u8
 #EXTINF:-1 group-title="MYANMAR"tvg-logo="https://www.myanmartvchannels.com/channels/channelme_bg.webp",011.Me

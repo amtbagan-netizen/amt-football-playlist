@@ -59,12 +59,18 @@ https://sportsgrid-tribal.amagi.tv/ts-us-e2-n1/playlist/sportstri-sportsgrid-spo
 https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8?channel_name=Bein%20Xtra%20Espanol&content_genre=Sport&ic=IAB17&rating=PG&language=ES&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=1791219726090565&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F152.0.0.0%20Safari%2F537.36&ip=103.150.218.78&dnt=1&app_name=Free%20Live%20Sports&app_bundle=freelivesports.tv&app_store_url=&ifa_type=dpid&did=5d01d64ac5b0026957052f0330129fc6&lmt=1#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="2064" tvg-name="beIN Sports XTRA" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K",beIN Sports XTRA
 https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8?channel_name=Bein%20Xtra&content_genre=Sport&ic=IAB17&rating=PG&language=US&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=1791219726866889&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F152.0.0.0%20Safari%2F537.36&ip=103.150.218.78&dnt=1&app_name=Free%20Live%20Sports&app_bundle=freelivesports.tv&app_store_url=&ifa_type=dpid&did=5d01d64ac5b0026957052f0330129fc6&lmt=1#fb:M3U_World_4K
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/indonesia/beinsport2.png" group-title="INDONESIA",IDS: BEIN SPORT 2 VIP
-http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34337
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="INDONESIA",IDS: FOX SPORTS 1 VIP
-http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34338
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="INDONESIA",IDS: FOX SPORTS 2 VIP
-http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34339
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/indonesia/foxsports.png" group-title="INDONESIA",IDS: FOX SPORTS 3 VIP
-http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/34340
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/netherlands/eurosport1.png" group-title="SPORT",NL: EUROSPORT 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/1269
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/netherlands/eurosport2.png" group-title="SPORT",NL: EUROSPORT 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/1270
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/netherlands/espn1.png" group-title="SPORT",NL: ESPN 1
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/1308
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/netherlands/espn2.png" group-title="SPORT",NL: ESPN 2
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/1309
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/netherlands/espn3.png" group-title="SPORT",NL: ESPN 3
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/1310
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/netherlands/espn4.png" group-title="SPORT",NL: ESPN 4
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/1311
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/netherlands/extreme-sports-channel-nl.png" group-title="SPORT",NL: EXTREME SPORT
+http://31.43.191.125:8080/679598496/Gegw6m5XxWFw/1312
 

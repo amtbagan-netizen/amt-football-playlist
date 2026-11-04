@@ -59,12 +59,47 @@ https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playl
 https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8?channel_name=Bein%20Xtra&content_genre=Sport&ic=IAB17&rating=PG&language=US&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=1791219726866889&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F152.0.0.0%20Safari%2F537.36&ip=103.150.218.78&dnt=1&app_name=Free%20Live%20Sports&app_bundle=freelivesports.tv&app_store_url=&ifa_type=dpid&did=5d01d64ac5b0026957052f0330129fc6&lmt=1#fb:M3U_World_4K
 #EXTINF:-1 , Star-sports-1
 http://103.114.11.37:8081/Star-sports-1/index.m3u8?token=sboxcast
+
 #EXTINF:-1 , Star-sports-2
 http://103.114.11.37:8081/Star-sports-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Star-sports-3
+http://103.114.11.37:8081/Star-sports-3/index.m3u8?token=sboxcast
+
 #EXTINF:-1 , Star-select-1
 http://103.114.11.37:8081/Star-select-1/index.m3u8?token=sboxcast
+
 #EXTINF:-1 , Star-select-2
 http://103.114.11.37:8081/Star-select-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Unite8-sports-1
+http://103.114.11.37:8081/Unite8-sports-1/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony 8
+http://103.114.11.37:8081/Sony-8/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony-sports-2
+http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony-sports-3
+http://103.114.11.37:8081/Sony-sports-3/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Sony Ten Sports 4 HD
+http://103.114.11.37:8081/Sony-sports-4/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , TEN SPORTS
+http://103.114.11.37:8081/TEN-SPORTS/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , T Sports HD
+http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , Eurosport
+http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
+
+#EXTINF:-1 , PTV
+http://103.114.11.37:8081/PTV/index.m3u8?token=sboxcast
+
+
 
 
 

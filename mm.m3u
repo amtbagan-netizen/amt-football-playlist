@@ -77,7 +77,12 @@ http://103.114.11.37:8081/Unite8-sports-1/index.m3u8?token=sboxcast
 
 #EXTINF:-1 , Sony 8
 http://103.114.11.37:8081/Sony-8/index.m3u8?token=sboxcast
+#EXTM3U
+#EXTINF:-1,TEN Sports 5
+http://103.135.253.32:8080/TEN-5/index.m3u8
 
+#EXTINF:-1,TEN Sports 1
+http://103.135.253.32:8080/TEN-1/index.m3u8
 #EXTINF:-1 , Sony-sports-2
 http://103.114.11.37:8081/Sony-sports-2/index.m3u8?token=sboxcast
 

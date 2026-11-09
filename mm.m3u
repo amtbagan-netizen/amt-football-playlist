@@ -95,18 +95,6 @@ http://103.114.11.37:8081/T-Sports-FHD/index.m3u8?token=sboxcast
 #EXTINF:-1 , Eurosport
 http://103.114.11.37:8081/Eurosport-HD/index.m3u8?token=sboxcast
 
-#EXTINF:-1,index.m3u8
-http://94.130.48.67:8042/stream/51/index.m3u8
-#EXTINF:-1,index.m3u8
-http://94.130.48.67:8042/stream/52/index.m3u8
-#EXTINF:-1,index.m3u8
-http://94.130.48.67:8042/stream/53/index.m3u8
-#EXTINF:-1,index.m3u8
-http://94.130.48.67:8042/stream/54/index.m3u8
-#EXTINF:-1,index.m3u8
-http://94.130.48.67:8042/stream/55/index.m3u8
-#EXTINF:-1,index.m3u8
-http://94.130.48.67:8042/stream/56/index.m3u8
 #EXTINF:-1 , PTV
 http://103.114.11.37:8081/PTV/index.m3u8?token=sboxcast
 

@@ -117,14 +117,6 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8#fb:M3U_World_4K
 #EXTINF:-1 tvg-id="MORE THEN SPORTS TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K",FB | MORE THEN SPORTS TV
 https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8#fb:M3U_World_4K
 
-#EXTINF:-1 tvg-id="Oman Sports TV" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K",FB | Oman Sports TV
-https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8#fb:M3U_World_4K
 
 #EXTINF:-1 tvg-id="FoxSports.ar@SD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K",Fox Sports
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports720p.m3u8#fb:M3U_World_4K
-
-#EXTINF:-1 tvg-id="FrankenPlus.intl" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K",FrankenPlus
-https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8#fb:M3U_World_4K
-
-#EXTINF:-1 tvg-id="L1Max.pe@SD" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K",L1 Max
-http://190.93.224.42/LIGA-1-MAX/index.m3u8#fb:M3U_World_4K

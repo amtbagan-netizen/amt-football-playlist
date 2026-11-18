@@ -218,3 +218,21 @@ http://77.90.60.172:55555/4/
 
 #EXTINF:-1 group-title="Sports",Roland Garros TNT Sports 1
 http://52xinghe.top/ppv.php?id=roland-garros-tnt-sports-1
+
+#EXTINF:-1 tvg-id="ptv-sports-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9QVFYlMjBTUE9SVFMlMjBIRDE3NDUwNDQ5OTMucG5n" group-title="Sports",PTV SPORTS HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=ptv-sports-hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony-sports-1-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwMSUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 1 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-1-hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony-sports-2-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwMiUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 2 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-2-hd&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony-sports-3" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9Tb255JTIwc3BvcnRzJTIwMy5wbmc" group-title="Sports",SONY SPORTS 3
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-3&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony-sports-4" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwNC5wbmc" group-title="Sports",SONY SPORTS 4
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-4&sm=.m3u8
+
+#EXTINF:-1 tvg-id="sony-sports-5-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwNSUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 5 HD
+https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-5-hd&sm=.m3u8

@@ -42,20 +42,51 @@ http://203.81.84.130/hls/mwd_variety/index.m3u8
 
 #EXTINF:-1 group-title="AI TV",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
+
+#EXTINF:-1 tvg-id="Xi_Ga5oBNnOkwJLWkhKP" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png" group-title="Live Action",Somoy TV
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1791369020~Starts=1791365420~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=eT0ajXs-C22VPniX8GuxVm0KBkx9htcCr5Rd0e57N3oZlvgbLTlUnCUB-B0QXCpnXA3kMAEOfyaIDMVf6VC5AQ
+
+#EXTINF:-1 tvg-id="kK2aX5UBrjBfS2_RBcKf" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png" group-title="Drama",Zee Bangla
+https://prod-linear-media.toffeelive.com/cdn/live/zee_bangla/playlist.m3u8?edge-cache-token=Expires=1791369020~Starts=1791365420~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=eT0ajXs-C22VPniX8GuxVm0KBkx9htcCr5Rd0e57N3oZlvgbLTlUnCUB-B0QXCpnXA3kMAEOfyaIDMVf6VC5AQ
+#EXTINF:-1 tvg-id="wHLVIJ4B7a1HdMSjaGLJ" tvg-logo="https://assets-prod.services.toffeelive.com/wHLVIJ4B7a1HdMSjaGLJ/posters/83b89557-3ae8-4ca8-8c5d-3c617359c738.png" group-title="Live Action",NTV
+https://prod-linear-media.toffeelive.com/cdn/live/n_tv/playlist.m3u8?edge-cache-token=Expires=1791369020~Starts=1791365420~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=eT0ajXs-C22VPniX8GuxVm0KBkx9htcCr5Rd0e57N3oZlvgbLTlUnCUB-B0QXCpnXA3kMAEOfyaIDMVf6VC5AQ
+
+#EXTINF:-1 tvg-id="qnv835oBcqxnFHJBuQcB" tvg-logo="https://assets-prod.services.toffeelive.com/qnv835oBcqxnFHJBuQcB/posters/348dfac3-c1e0-485d-a72b-3d282c9e2c73.png" group-title="Live Action",Channel i
+https://prod-linear-media.toffeelive.com/cdn/live/channel_i/playlist.m3u8?edge-cache-token=Expires=1791369020~Starts=1791365420~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=eT0ajXs-C22VPniX8GuxVm0KBkx9htcCr5Rd0e57N3oZlvgbLTlUnCUB-B0QXCpnXA3kMAEOfyaIDMVf6VC5AQ
+
+#EXTINF:-1 tvg-id="DNMXs5UBm1RY_In7IJ72" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png" group-title="Family",Toffee TV
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?edge-cache-token=Expires=1791369020~Starts=1791365420~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=eT0ajXs-C22VPniX8GuxVm0KBkx9htcCr5Rd0e57N3oZlvgbLTlUnCUB-B0QXCpnXA3kMAEOfyaIDMVf6VC5AQ
+
+#EXTINF:-1 tvg-id="JNQA_58BalKyvLQIhiVD" tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png" group-title="Documentary",Saudi Sunnah
+https://prod-linear-media.toffeelive.com/cdn/live/saudi_sunnah/playlist.m3u8?edge-cache-token=Expires=1791369020~Starts=1791365420~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=eT0ajXs-C22VPniX8GuxVm0KBkx9htcCr5Rd0e57N3oZlvgbLTlUnCUB-B0QXCpnXA3kMAEOfyaIDMVf6VC5AQ
+
+#EXTINF:-1 tvg-id="b60Ss5UBrjBfS2_RJPb8" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png" group-title="Movies",Toffee Movies
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?edge-cache-token=Expires=1791369020~Starts=1791365420~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=eT0ajXs-C22VPniX8GuxVm0KBkx9htcCr5Rd0e57N3oZlvgbLTlUnCUB-B0QXCpnXA3kMAEOfyaIDMVf6VC5AQ
+
+#EXTINF:-1 tvg-id="rYOv_p8BJIOHmUelrnXh" tvg-logo="https://assets-prod.services.toffeelive.com/rYOv_p8BJIOHmUelrnXh/posters/d537453f-7e5b-45f3-9b52-42f6f65950c8.png" group-title="Documentary",Channel News Asia
+https://prod-linear-media.toffeelive.com/cdn/live/channels_news_asia/playlist.m3u8?edge-cache-token=Expires=1791369020~Starts=1791365420~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiZGQzMjNhYmQtZDAyNS00OTQxLWIwMGItZjJlMTJlOTY3YzUxIn0~Signature=eT0ajXs-C22VPniX8GuxVm0KBkx9htcCr5Rd0e57N3oZlvgbLTlUnCUB-B0QXCpnXA3kMAEOfyaIDMVf6VC5AQ
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K", Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K", Bein Sports 2
 http://27.124.71.27/beIN_Sports_2/index.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K", Bein Sports 3
 http://27.124.71.27/beIN_Sports_3/index.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K", Bein Sports 4
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K", beIN Sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K", Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8#fb:M3U_World_4K
+
 #EXTINF:-1 tvg-id="2062" tvg-name="SportsGrid Live" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K",SportsGrid Live
 https://sportsgrid-tribal.amagi.tv/ts-us-e2-n1/playlist/sportstri-sportsgrid-sportstribal/playlist.m3u8?app_store_url=&lmt=1&ua=Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F152.0.0.0%2520Safari%252F537.36&rating=PG&gdpr=0&cb=1791219725295812&gdpr_consent=0&language=US&coppa=0&content_genre=Sport&content_livestream=1&us_privacy=1NYN&dnt=1&ip=103.150.218.78&did=5d01d64ac5b0026957052f0330129fc6&app_name=Free%2520Live%2520Sports&ifa_type=dpid&channel_name=SportsGrid%2520Live&app_bundle=freelivesports.tv&ic=IAB17#fb:M3U_World_4K
+
 #EXTINF:-1 tvg-id="2063" tvg-name="beIN Sports XTRA En Espanol" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" group-title="Sports" provider="fb:M3U_World_4K",beIN Sports XTRA En Espanol
 https://amg01334-amg01334c1-freelivesports-emea-6792.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinespanolusapp-freelivesportsemea/playlist.m3u8?channel_name=Bein%20Xtra%20Espanol&content_genre=Sport&ic=IAB17&rating=PG&language=ES&coppa=0&content_livestream=1&us_privacy=1NYN&gdpr=0&gdpr_consent=0&cb=1791219726090565&ua=Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F152.0.0.0%20Safari%2F537.36&ip=103.150.218.78&dnt=1&app_name=Free%20Live%20Sports&app_bundle=freelivesports.tv&app_store_url=&ifa_type=dpid&did=5d01d64ac5b0026957052f0330129fc6&lmt=1#fb:M3U_World_4K
 

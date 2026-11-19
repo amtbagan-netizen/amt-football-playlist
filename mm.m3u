@@ -40,8 +40,11 @@ http://203.81.84.130/hls/mwd_movie/index.m3u8
 #EXTINF:-1 tvg-id="MWDVariety.mm@SD" tvg-logo="https://i.imgur.com/wb3Ku8X.png" group-title="Entertainment",MWD Variety (720p) [Not 24/7]
 http://203.81.84.130/hls/mwd_variety/index.m3u8
 
-#EXTINF:-1,index.movie
-https://toffee.aliflaila.live/channel/65.m3u8
+#EXTINF:-1,SONY MAX HD
+https://toffee.aliflaila.live/channel/54.m3u8
+
+#EXTINF:-1,Toffee Movice
+https://toffee.aliflaila.live/channel/8.m3u8
 
 #EXTINF:-1 group-title="AI TV",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8

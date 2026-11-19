@@ -49,7 +49,27 @@ https://toffee.aliflaila.live/channel/8.m3u8
 #EXTINF:-1 group-title="AI TV",Botflix TV
 https://hls.botflix.tv/tv/index.m3u8
 
-#
+#EXTINF:-1,SONY MAX 2
+https://toffee.aliflaila.live/channel/57.m3u8
+
+#EXTINF:-1,SONY MAX
+https://toffee.aliflaila.live/channel/65.m3u8
+
+#EXTINF:-1,ZEE CINIMA
+https://toffee.aliflaila.live/channel/45.m3u8
+
+#EXTINF:-1,ANADA TV
+https://toffee.aliflaila.live/channel/68.m3u8
+
+#EXTINF:-1,Cartoon 
+https://toffee.aliflaila.live/channel/32.m3u8
+
+#EXTINF:-1,POGO
+https://toffee.aliflaila.live/channel/38.m3u8
+
+#EXTINF:-1,Cartoon Network
+https://toffee.aliflaila.live/channel/41.m3u8
+
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/J47pjBQZ/m3uworld4k.png" provider="fb:M3U_World_4K", Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8#fb:M3U_World_4K
 

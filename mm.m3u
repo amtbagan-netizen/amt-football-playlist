@@ -194,18 +194,3 @@ http://190.61.47.54:8000/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN Latin America Mexico (1080p)
 http://168.228.44.241:9997/play/a06p/index.m3u8
-
-#EXTINF:-1 tvg-id="sony-sports-1-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwMSUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 1 HD
-https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-1-hd&sm=.m3u8
-
-#EXTINF:-1 tvg-id="sony-sports-2-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwMiUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 2 HD
-https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-2-hd&sm=.m3u8
-
-#EXTINF:-1 tvg-id="sony-sports-3" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9Tb255JTIwc3BvcnRzJTIwMy5wbmc" group-title="Sports",SONY SPORTS 3
-https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-3&sm=.m3u8
-
-#EXTINF:-1 tvg-id="sony-sports-4" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwNC5wbmc" group-title="Sports",SONY SPORTS 4
-https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-4&sm=.m3u8
-
-#EXTINF:-1 tvg-id="sony-sports-5-hd" tvg-logo="https://im.sm-monirul.top/?url=aHR0cDovL3JlZGZvcmNlLmxpdmUvYXNzZXRzL2ltYWdlcy9zb255JTIwc3BvcnRzJTIwNSUyMGhkLnBuZw" group-title="Sports",SONY SPORTS 5 HD
-https://2nd.sm-monirul.top/@sm_iptv_bd/max/live.php?id=sony-sports-5-hd&sm=.m3u8
